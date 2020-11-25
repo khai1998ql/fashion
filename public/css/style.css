@@ -1,0 +1,28 @@
+.button{
+    margin-left: 10px;
+    border-radius: 5px;
+    border: 0px;
+    padding: 7px 10px 7px 10px;
+    color: white;
+    text-align: center;
+}
+.sua{
+    background-color: turquoise;
+}
+.xoa{
+    background-color: tomato;
+}
+.frm{
+    padding-left: 40px;
+    padding-top: 40px;
+    font-size: 20px;
+    display: inline-block;
+}
+.frm .rowform button{
+    margin-left: 200px;
+}
+.nextfloat{
+    display: inline-flex;
+    float: left;
+    margin-right: 30px;
+}
